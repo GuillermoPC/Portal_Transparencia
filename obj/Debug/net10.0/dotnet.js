@@ -5,7 +5,7 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
   "mainAssemblyName": "PortalTransparencia",
   "applicationEnvironment": "Development",
   "resources": {
-    "hash": "sha256-mYT2DtxV4BVQeBxvBouCkrQYTN5GUUMmFAACdhhQJzU=",
+    "hash": "sha256-8yIy2WGpYAuVnR3xjgLKd9hXd8nI2/xn3Zr4sptx7EQ=",
     "jsModuleNative": [
       {
         "name": "dotnet.native.b6l13xorvf.js"
@@ -1242,16 +1242,16 @@ var e=!1;const t=async()=>WebAssembly.validate(new Uint8Array([0,97,115,109,1,0,
       },
       {
         "virtualPath": "PortalTransparencia.wasm",
-        "name": "PortalTransparencia.0ijg9sb8g9.wasm",
-        "hash": "sha256-uA8IQOauZ+BRpyvgBQFx+u1aJ7IZvOWvqF21SCeNjLU=",
+        "name": "PortalTransparencia.s5rdyzuihq.wasm",
+        "hash": "sha256-QAetJ2BRcVay3PZNxL3IVbcodtIlOySV7D49xVs8o7o=",
         "cache": "force-cache"
       }
     ],
     "pdb": [
       {
         "virtualPath": "PortalTransparencia.pdb",
-        "name": "PortalTransparencia.bfe9tchv1y.pdb",
-        "hash": "sha256-uZEv6gdqKVGYlqeG7On/9Ad08Z7r1twHpCUHe06niDo=",
+        "name": "PortalTransparencia.mr84p1g1fv.pdb",
+        "hash": "sha256-YqI4/ICXVKsn3mqptPBxLWhttk0zEx2dtpA6lKStufA=",
         "cache": "force-cache"
       }
     ],
