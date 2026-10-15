@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PortalTransparencia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86d0f6b6187e93ddf86d09e928603cf746c540e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd6494a8fc5faa6e71d99cb12d428dbe09dbcfdd")]
 [assembly: System.Reflection.AssemblyProductAttribute("PortalTransparencia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PortalTransparencia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
