@@ -1035,6 +1035,6 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\Porta
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\refint\PortalTransparencia.dll
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\PortalTransparencia.pdb
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\ref\PortalTransparencia.dll
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u566lxv5rq-{0}-3br0arcd3u-3br0arcd3u.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\mqxd1slm5y-{0}-ntoei4qntq-ntoei4qntq.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\ir8jdmdug3-{0}-h6srbonsd5-h6srbonsd5.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u566lxv5rq-{0}-to4m47yoou-to4m47yoou.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\mqxd1slm5y-{0}-w7x84104g5-w7x84104g5.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\ir8jdmdug3-{0}-kgfq8t1eci-kgfq8t1eci.gz

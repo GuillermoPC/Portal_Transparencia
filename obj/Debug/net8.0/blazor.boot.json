@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "PortalTransparencia",
   "resources": {
-    "hash": "sha256-TGABd1FRdLx/cnnmDSuYx/zUPlAsHCs4IQ3vJWkNp/Q=",
+    "hash": "sha256-n1avmsjB8G/djSFvt0Sj5N10ZXDzvEVG7ZCiSvFcjxI=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-9NoXeVUo4WNrEqrjAp/y3Yc8NmDcymQkzMGOIbIpGio="
     },
@@ -209,10 +209,10 @@
       "mscorlib.wasm": "sha256-OmTGouRNx6WSUuId/voXk3BdmUBjMaPhBmzCV5Ou50U=",
       "netstandard.wasm": "sha256-F85o3B9rvmQY3Fqw2NA9m0s3ClnaV52mai+2TPXGYOQ=",
       "System.Private.CoreLib.wasm": "sha256-IG8eU8RA+sth9u5bXJUd+dGj2XuUViwhA9FS6a3GZOw=",
-      "PortalTransparencia.wasm": "sha256-PyDZWRsmn8B613xu036Q9iX+8GIAKQRFWbtNvRwFuQA="
+      "PortalTransparencia.wasm": "sha256-PeGmGe3Ot35y0dlwOTLpQLX2tuSXdO/uYUl5L1Z3X50="
     },
     "pdb": {
-      "PortalTransparencia.pdb": "sha256-K7emmoT7N8QEIPK9KcWSesGSnrB+fiMjOxv6KGKJEqE="
+      "PortalTransparencia.pdb": "sha256-1H0LQfrFR87d7a69XrWKQE3HBwbvlcSxFhu/0u+INWE="
     }
   },
   "cacheBootResources": true,
