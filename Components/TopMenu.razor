@@ -1,0 +1,131 @@
+@using PortalTransparencia.Models
+
+<nav class="menu-horizontal">
+
+    @foreach (var menu in Menus)
+{
+    @if (menu.SubMenus.Any())
+    {
+        <div class="menu-item"
+             @onmouseenter="() => AbrirMenu(menu.Titulo)"
+             @onmouseleave="CerrarMenu">
+
+            <button class="menu-btn">
+                @menu.Titulo
+            </button>
+
+            @if (MenuAbierto == menu.Titulo)
+            {
+                <div class="submenu">
+
+                    @foreach (var sub in menu.SubMenus)
+                    {
+                        <a href="@sub.Url"
+                           target="_blank"
+                           rel="noopener noreferrer">
+
+                            @sub.Titulo
+
+                        </a>
+                    }
+
+                </div>
+            }
+
+        </div>
+    }
+    else
+    {
+        @menu.Url
+
+            @menu.Titulo
+
+        
+    }
+}
+</nav>
+
+@code {
+
+    private string? MenuAbierto;
+
+    private void AbrirMenu(string titulo)
+    {
+        MenuAbierto = titulo;
+    }
+    private void CerrarMenu()
+    {
+    MenuAbierto = null;
+    }
+
+    private List<MenuItem> Menus = new()
+    {
+        new()
+        {
+            Titulo = "Ingresos de 1ra Instancia",
+            SubMenus =
+            {
+                new()
+                {
+                    Titulo = "Trámites de Nuevos Ingresos",
+                    Url = "https://app.powerbi.com/view?r=eyJrIjoiYWIwNGViYzgtYjJkOS00MmUzLWE2MTktODdkYjViOWRiYjE1IiwidCI6ImZjNmE5YWVjLWQyMWItNDRkMy04MThhLTY0M2EyZDQzNjRmMiJ9"
+                },
+                new()
+                {
+                    Titulo = "Ingresos Sistema Justicia Penal",
+                    Url = "https://app.powerbi.com/view?r=eyJrIjoiYWIwNGViYzgtYjJkOS00MmUzLWE2MTktODdkYjViOWRiYjE1IiwidCI6ImZjNmE5YWVjLWQyMWItNDRkMy04MThhLTY0M2EyZDQzNjRmMiJ9&pageName=ReportSection6133e438703198236ecb"
+                }
+            }
+        },
+
+        new()
+        {
+            Titulo = "Incidencias",
+            SubMenus =
+            {
+                new()
+                {
+                    Titulo = "Trámites de Nuevas Incidencias",
+                    Url = "https://app.powerbi.com/view?r=eyJrIjoiZDgwOWNjNzUtNDcxZS00ZGU4LTlkOTMtN2E0NDMzZjc0ZjM4IiwidCI6ImZjNmE5YWVjLWQyMWItNDRkMy04MThhLTY0M2EyZDQzNjRmMiJ9&pageName=ReportSectionbb29ebc62ee237070e72"
+                },
+                new()
+                {
+                    Titulo = "Incidencias Sistema Laboral",
+                    Url = "https://app.powerbi.com/view?r=eyJrIjoiZDgwOWNjNzUtNDcxZS00ZGU4LTlkOTMtN2E0NDMzZjc0ZjM4IiwidCI6ImZjNmE5YWVjLWQyMWItNDRkMy04MThhLTY0M2EyZDQzNjRmMiJ9&pageName=ca03051aed1d653591ec"
+                }
+            }
+        },
+
+        new()
+        {
+            Titulo = "Medidas Cautelares",
+            SubMenus = []
+        },
+
+        new()
+        {
+            Titulo = "Órdenes de Protección"
+        },
+
+        new()
+        {
+            Titulo = "Audiencias del Sistema Penal Acusatorio"
+        },
+
+        new()
+        {
+            Titulo = "Sistema para Ejecución de Sanciones"
+        },
+
+        new()
+        {
+            Titulo = "Rankings"
+        },
+
+        new()
+        {
+            Titulo = "Anuario Estadístico"
+        }
+    };
+
+}
