@@ -1025,9 +1025,6 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compr
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\7ugzb9gc0d-{0}-tptq2av103-tptq2av103.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u5sgim8jw3-{0}-lfu7j35m59-lfu7j35m59.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\gajha16k9n-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u566lxv5rq-{0}-51pkxuee35-51pkxuee35.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\mqxd1slm5y-{0}-8zsauqqubo-8zsauqqubo.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\ir8jdmdug3-{0}-iihpn2s8j3-iihpn2s8j3.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets.development.json
@@ -1038,3 +1035,6 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\Porta
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\refint\PortalTransparencia.dll
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\PortalTransparencia.pdb
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\ref\PortalTransparencia.dll
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u566lxv5rq-{0}-qomihdqz5q-qomihdqz5q.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\mqxd1slm5y-{0}-ys6ldkfa10-ys6ldkfa10.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\ir8jdmdug3-{0}-kv5mmgv7r8-kv5mmgv7r8.gz
