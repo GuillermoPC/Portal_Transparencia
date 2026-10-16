@@ -3,46 +3,48 @@
 <nav class="menu-horizontal">
 
     @foreach (var menu in Menus)
-{
-    @if (menu.SubMenus.Any())
     {
-        <div class="menu-item"
-             @onmouseenter="() => AbrirMenu(menu.Titulo)"
-             @onmouseleave="CerrarMenu">
+        if (menu.SubMenus?.Any() == true)
+        {
+            <div class="menu-item"
+                 @onmouseenter="() => AbrirMenu(menu.Titulo)"
+                 @onmouseleave="CerrarMenu">
 
-            <button class="menu-btn">
-                @menu.Titulo
-            </button>
+                <button class="menu-btn">
+                    @menu.Titulo
+                </button>
 
-            @if (MenuAbierto == menu.Titulo)
-            {
-                <div class="submenu">
+                @if (MenuAbierto == menu.Titulo)
+                {
+                    <div class="submenu">
 
-                    @foreach (var sub in menu.SubMenus)
-                    {
-                        <a href="@sub.Url"
-                           target="_blank"
-                           rel="noopener noreferrer">
+                        @foreach (var sub in menu.SubMenus)
+                        {
+                            <a href="@sub.Url"
+                               target="_blank"
+                               rel="noopener noreferrer">
+                                @sub.Titulo
+                            </a>
+                        }
 
-                            @sub.Titulo
+                    </div>
+                }
 
-                        </a>
-                    }
-
-                </div>
-            }
-
-        </div>
+            </div>
+        }
+        else
+        {
+            <div class="menu-item">
+                <a class="menu-btn"
+                   href="@menu.Url"
+                   target="_blank"
+                   rel="noopener noreferrer">
+                    @menu.Titulo
+                </a>
+            </div>
+        }
     }
-    else
-    {
-        @menu.Url
 
-            @menu.Titulo
-
-        
-    }
-}
 </nav>
 
 @code {
@@ -53,9 +55,10 @@
     {
         MenuAbierto = titulo;
     }
+
     private void CerrarMenu()
     {
-    MenuAbierto = null;
+        MenuAbierto = null;
     }
 
     private List<MenuItem> Menus = new()
@@ -98,8 +101,7 @@
 
         new()
         {
-            Titulo = "Medidas Cautelares",
-            SubMenus = []
+            Titulo = "Medidas Cautelares"
         },
 
         new()

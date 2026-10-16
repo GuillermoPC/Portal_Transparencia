@@ -1,4 +1,4 @@
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.mv535bwyet.js
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm
@@ -203,7 +203,7 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwro
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\PortalTransparencia.wasm
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\PortalTransparencia.pdb
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\blazor.boot.json
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.mv535bwyet.js.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.wasm.gz
@@ -822,7 +822,6 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\scope
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\scopedcss\projectbundle\PortalTransparencia.bundle.scp.css
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\blazor.build.boot-extension.json
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\blazor.boot.json
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets\htmlassetplaceholders\build\d8eers3ey1.html
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\3vxd9nx2a8-{0}-mv535bwyet-mv535bwyet.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\sflkuns09u-{0}-ykfzd9f74r-ykfzd9f74r.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\9kb210zcsk-{0}-8j74ad8aj8-8j74ad8aj8.gz
@@ -1025,6 +1024,9 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compr
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\7ugzb9gc0d-{0}-tptq2av103-tptq2av103.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u5sgim8jw3-{0}-lfu7j35m59-lfu7j35m59.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\gajha16k9n-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u566lxv5rq-{0}-m4btlepl10-m4btlepl10.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\mqxd1slm5y-{0}-pu5jwxx6dc-pu5jwxx6dc.gz
+C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\ir8jdmdug3-{0}-vsdyjdv74i-vsdyjdv74i.gz
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\staticwebassets.development.json
@@ -1035,6 +1037,3 @@ C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\Porta
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\refint\PortalTransparencia.dll
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\PortalTransparencia.pdb
 C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\ref\PortalTransparencia.dll
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\u566lxv5rq-{0}-to4m47yoou-to4m47yoou.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\mqxd1slm5y-{0}-w7x84104g5-w7x84104g5.gz
-C:\Users\Cristian\PortalTransparencia\PortalTransparencia\obj\Debug\net8.0\compressed\ir8jdmdug3-{0}-kgfq8t1eci-kgfq8t1eci.gz
